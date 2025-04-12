@@ -58,7 +58,7 @@ yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "../resources/idc.gif";
   text.innerHTML = "I Knew it  😘";
-  yes.innerHTML = '<a href="7978743688">Message me</a>';
+  yes.innerHTML = '<a href="https://wa.me/+917978743688">Message me</a>';
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
